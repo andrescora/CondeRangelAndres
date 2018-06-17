@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnwindSegues11", "UnwindSegues11\UnwindSegues11.csproj", "{BE13829E-FD9B-4250-A1DF-775DF98391E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE13829E-FD9B-4250-A1DF-775DF98391E4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{BE13829E-FD9B-4250-A1DF-775DF98391E4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{BE13829E-FD9B-4250-A1DF-775DF98391E4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{BE13829E-FD9B-4250-A1DF-775DF98391E4}.Release|iPhone.Build.0 = Release|iPhone
+		{BE13829E-FD9B-4250-A1DF-775DF98391E4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{BE13829E-FD9B-4250-A1DF-775DF98391E4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{BE13829E-FD9B-4250-A1DF-775DF98391E4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{BE13829E-FD9B-4250-A1DF-775DF98391E4}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
